@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\bin\Debug\net8.0\VectorEditor.exe
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\bin\Debug\net8.0\VectorEditor.deps.json
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\bin\Debug\net8.0\VectorEditor.runtimeconfig.json
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\bin\Debug\net8.0\VectorEditor.dll
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\bin\Debug\net8.0\VectorEditor.pdb
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\VectorEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\VectorEditor.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\VectorEditor.AssemblyInfo.cs
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\VectorEditor.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\VectorEditor.dll
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\refint\VectorEditor.dll
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\VectorEditor.pdb
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\VectorEditor.genruntimeconfig.cache
+C:\Users\user\Downloads\VectorEditor (4)\VectorEditor\obj\Debug\net8.0\ref\VectorEditor.dll

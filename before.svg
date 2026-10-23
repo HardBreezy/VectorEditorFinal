@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#1b2430" stroke-width="2">
+  <g id="Сцена">
+    <g id="Дом">
+      <rect id="Стены" x="100" y="100" width="80" height="60" />
+      <line id="Крыша-лево" x1="100" y1="100" x2="140" y2="70" />
+      <line id="Крыша-право" x1="140" y1="70" x2="180" y2="100" />
+    </g>
+    <g id="Солнце">
+      <circle id="Диск" cx="220" cy="40" r="15" />
+      <line id="Луч" x1="220" y1="15" x2="220" y2="5" />
+    </g>
+    <circle id="Облако" cx="40" cy="40" r="20" />
+  </g>
+</svg>
